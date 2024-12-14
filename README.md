@@ -1,2 +1,2 @@
-# linear-algebra-ITMO-
+# linear-algebra-ITMO
 репозитория для лабораторных работ по линейной алгебре Итмо (ИИИ)
